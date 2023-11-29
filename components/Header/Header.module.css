@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #4caf50; 
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  .link {
+    all:unset;
+  }
+  .header h1 {
+    margin: 0;
+  }

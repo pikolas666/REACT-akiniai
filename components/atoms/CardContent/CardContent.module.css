@@ -1,0 +1,21 @@
+.descriptionWrapper {
+    padding: 20px;
+  }
+  
+  .h3 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .p {
+    margin-bottom: 8px;
+    color: #666;
+  }
+  
+  .price {
+    font-weight: bold;
+    color: #f00; 
+  }
+  .location {
+    color: #008080;
+  }

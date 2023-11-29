@@ -1,0 +1,13 @@
+.image {
+    object-fit: cover;
+    width: 100%;
+    max-width: 250px;
+    min-width: 200px;
+    padding:20px;
+    height:auto;
+  }
+.image:hover{
+  transform: scale(1.30);
+}
+
+  
